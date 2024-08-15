@@ -18,6 +18,7 @@
 * Step 5: Define GAME-OVER conditions to trigger winner message and end game.
 
 **Results**
+
 ![image](https://github.com/user-attachments/assets/53e85793-eedb-43a6-8fcf-2eca1b2c13bc)
 ![image](https://github.com/user-attachments/assets/3c4dfc15-dbb2-4034-86c7-d5a54c1779d3)
 
